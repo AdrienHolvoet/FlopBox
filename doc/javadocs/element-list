@@ -1,0 +1,7 @@
+com.sr2.flopbox
+com.sr2.flopbox.common
+com.sr2.flopbox.controller
+com.sr2.flopbox.exception
+com.sr2.flopbox.filter
+com.sr2.flopbox.model
+com.sr2.flopbox.service

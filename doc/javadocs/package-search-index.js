@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.sr2.flopbox"},{"l":"com.sr2.flopbox.common"},{"l":"com.sr2.flopbox.controller"},{"l":"com.sr2.flopbox.exception"},{"l":"com.sr2.flopbox.filter"},{"l":"com.sr2.flopbox.model"},{"l":"com.sr2.flopbox.service"}];updateSearchResults();
